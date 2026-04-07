@@ -38,7 +38,6 @@ Vehicle OBD-II Port
 - STM32F429 via STM32F429IDISC-1  
 - CAN transceiver SN65HVD230
 - OBD-II connector
-- USB-UART interface
 
 ## Author
 
