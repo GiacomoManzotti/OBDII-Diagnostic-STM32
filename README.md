@@ -14,6 +14,14 @@ The implementation focuses on:
 - UART data forwarding
 - Validation on a real vehicle
 
+## Usage
+
+1. Connect OBD-II cable to vehicle
+2. Connect STM32 board to PC via USB
+3. Open terminal (115200 baudrate, 8N1)
+4. Reset board
+5. Select PID from menu
+
 ## System Architecture
 
 PC / Serial Terminal  
@@ -38,6 +46,11 @@ Vehicle OBD-II Port
 - STM32F429 via STM32F429IDISC-1  
 - CAN transceiver SN65HVD230
 - OBD-II connector
+
+## Tested Vehicles
+
+- Mini R56 LCI
+- Subaru BRZ Gen 2 ZD8
 
 ## Author
 
