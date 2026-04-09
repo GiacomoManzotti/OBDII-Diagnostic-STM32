@@ -54,8 +54,8 @@ Vehicle OBD-II Port
 
 ## Author
 
-Giacomo Manzotti
-Cyber Physical Systems
-DITEN
-University of Genoa
+Giacomo Manzotti 
+Cyber Physical Systems 
+DITEN 
+University of Genoa 
 2026
